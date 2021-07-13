@@ -1,4 +1,4 @@
-# Markdwon-Previewer
+# Markdown-Previewer
 ![](markdown-previewer.gif.gif)
 
 
